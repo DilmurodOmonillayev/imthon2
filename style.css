@@ -1,0 +1,40 @@
+.rt{
+    font-size:30px;
+    text-align: center;
+    background-color: grey;
+}
+.non{
+    font-size:30px;
+    background-color:yellow;
+}
+.gu{
+    color: red;
+}
+.de{
+    color:green;
+}
+.ju{
+    color:red;
+}
+.yu{
+    color:yellow;
+}
+.lk{
+    color: green;
+}
+.yol{
+    color: grey;
+}
+.fd{
+    color: green;
+}
+th,td{
+    border: 2px solid black;
+    width: 100px;
+    text-align: center;
+    }
+    
+    table{
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
